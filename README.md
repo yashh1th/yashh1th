@@ -39,7 +39,7 @@ Welcome to my GitHub! I’m passionate about using data and financial expertise 
 
 I’m always up for new challenges and opportunities to learn. Let’s create something impactful together! 🚀  
 
-  <br><br>)#)
+  <br><br>
 
 
 ## 🌐 Socials:

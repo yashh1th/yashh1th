@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hey there! 👋  <br>I’m Yashwanth, a data nerd who loves turning messy datasets into cool stories. With a mix of Python, SQL, and creative flair (shoutout to my cinematography + graphic design past), I craft visuals and insights that actually make sense. Obsessed with finance, data viz, and helping people crush their goals. Always learning, always vibing. Let’s create something awesome together—whether it’s dashboards, money magic, or just nerding out about data. 🚀  <br><br>[Let’s connect!](#)
+### Hey there 👋  <br>I’m Yashwanth, a data nerd who loves turning messy datasets into cool stories. With a mix of Python, SQL, and creative flair (shoutout to my cinematography + graphic design past), I craft visuals and insights that actually make sense. Obsessed with finance, data viz, and helping people crush their goals. Always learning, always vibing. Let’s create something awesome together—whether it’s dashboards, money magic, or just nerding out about data. 🚀  <br><br>[Let’s connect!](#)
 
 
 ## 🌐 Socials:
